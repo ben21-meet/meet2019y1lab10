@@ -1,0 +1,23 @@
+.pull-left{
+  float: left;
+}
+
+
+.row{
+  display: table;
+}
+
+#header {
+	color: yellow;
+	text-decoration: underline;
+	border-color: black;
+}
+
+#products {
+	color: white;
+	text-decoration: underline;
+}
+
+h3 {
+	color: white;
+}
